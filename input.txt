@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Page with Image and Comment</title>
+</head>
+<body>
+    <h1>Gallery</h1>
+    <p>Check out this image:</p>
+    <img src="image.jpg" alt="Sample Image">
+    <!-- This is a comment -->
+</body>
+</html>
